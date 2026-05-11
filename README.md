@@ -63,7 +63,7 @@ Focused on Angular, TypeScript, .NET, SAP Fiori/UI5 and modern web applications.
 
 ## 📌 Current Focus
 
-- Angular 19+
+- Angular v8+
 - SAP Fiori / SAPUI5
 - .NET APIs
 - Micro Frontends
