@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Frontend Developer from Brazil 🇧🇷 <br>
-Focused on Angular, TypeScript, SAP Fiori/UI5 and modern web applications.
+Focused on Angular, TypeScript, .NET, SAP Fiori/UI5 and modern web applications.
 </h3>
 
 ---
@@ -20,10 +20,11 @@ Focused on Angular, TypeScript, SAP Fiori/UI5 and modern web applications.
 ## 🚀 About Me
 
 - 💻 Front End Developer passionate about building modern interfaces
-- ⚡ Specialized in Angular & TypeScript
+- ⚡ Specialized in Angular, TypeScript and .NET
+- 🏢 Experience with SAP Fiori / SAPUI5 enterprise applications
 - 🎨 Focused on clean UI, reusable components and scalable applications
-- 📱 Experience with responsive applications and hybrid mobile apps
-- 🏢 Working with SAP Fiori / SAPUI5 enterprise applications
+- 📱 Experience with responsive and hybrid mobile applications
+- 🔥 Building full stack applications with modern architectures
 - 🌎 Improving my English through movies, series and daily practice
 - 📚 Always learning new technologies and best practices
 
@@ -44,6 +45,8 @@ Focused on Angular, TypeScript, SAP Fiori/UI5 and modern web applications.
 
 ### Backend & Database
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
 </div>
@@ -62,11 +65,12 @@ Focused on Angular, TypeScript, SAP Fiori/UI5 and modern web applications.
 
 - Angular 19+
 - SAP Fiori / SAPUI5
+- .NET APIs
 - Micro Frontends
 - Clean Architecture
 - Performance & UX
 - Responsive Design
-- Backend APIs with Node.js
+- Full Stack Development
 
 ---
 
@@ -85,7 +89,7 @@ Focused on Angular, TypeScript, SAP Fiori/UI5 and modern web applications.
 ---
 
 <div align="center">
-  
+
 ### ⚡ “Code. Learn. Improve. Repeat.”
 
 </div>
